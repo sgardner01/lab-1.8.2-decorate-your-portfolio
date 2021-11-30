@@ -1,0 +1,19 @@
+#p {
+    font-size: 320%;
+color: greenyellow;
+}
+h1 {
+background-color: #99ffcc
+}
+h2 {
+background-color: #99ffcc
+}
+h3 {
+background-color: #99ffcc
+}
+* {
+cursor: progress;
+}
+body {
+background-image: url("greekgodpic"), url("https://images-na.ssl-images-amazon.com/images/I/511mGOj7fpL._SX384_BO1,204,203,200_.jpg");
+}
